@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Updates &#8211; Lancaster Observer</title>
+	<atom:link href="https://lancasterobserver.github.io/category/updates/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lancasterobserver.github.io/</link>
+	<description>&#34;All The News LNP Won&#039;t Print&#34;</description>
+	<lastBuildDate>Fri, 22 Dec 2023 23:04:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Welcome to the Lancaster Observer</title>
+		<link>https://lancasterobserver.github.io/welcome-to-the-lancaster-observer/</link>
+		
+		<dc:creator><![CDATA[Lancaster Observer]]></dc:creator>
+		<pubDate>Fri, 22 Dec 2023 22:56:51 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">https://lancasterobserver.github.io/?p=44</guid>
+
+					<description><![CDATA[The Lancaster Observer was born in 2023 as a response to the absence of genuine, unvarnished reporting concerning the figures within Lancaster City’s political landscape. Its inception was catalyzed by observations of community members who yearned for a reliable source committed to unearthing the unadulterated truth. In a realm inundated with partial truths and obscured [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
